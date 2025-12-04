@@ -12,3 +12,12 @@ luci-i18n-zerotier-zh-cn
 luci-theme-argon
 -automount
 bash
+luci-app-easytier
+luci-app-zerotier
+luci-app-ttyd
+luci-app-netspeedtest
+luci-app-oaf
+luci-theme-argon
+luci-app-nlbwmon
+luci-app-qosmate
+luci-app-sqm-autorate
